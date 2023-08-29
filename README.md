@@ -5,7 +5,7 @@
 - Uzair Qadir: [uzairqadir2020@u.northwestern.edu](mailto:uzairqadir2020@u.northwestern.edu)
 
 ## Project Report
-We present a modified version of VampNet that converts human hummings into musical audio. The key modifications made to VampNet lie in the masking and sampling processes. This method exhibits strong performance in short audio inputs and has natural variation in instruments, genre, and pace of the output whilst consistently matching the input melodies. 
+- We present a modified version of VampNet that converts human hummings into musical audio. The key modifications made to VampNet lie in the masking and sampling processes. This method exhibits strong performance in short audio inputs and has natural variation in instruments, genre, and pace of the output whilst consistently matching the input melodies. 
 - [Style Transfer Using Vampnet](https://devshah2.github.io/vampnet-styletransfer.io/)
 
 ## Original Vampnet Paper
